@@ -36,8 +36,8 @@ En este trabajo se solicita:
 2.- Esconder o adaptar el conteniudo utilizando selectores
 .- En Desktop se visualiza de la siguiente forma:
 
-![Modo Desktop mayor o igual a 800px]('./assets/images/desktop.png')
+![Modo Desktop mayor o igual a 800px](assets/images/desktop.png?raw=true "Desktop")
 
 .- En Mobile se debe visualizar de la siguiente forma:
 
-![Modo Mobile menor a 800px]('./assets/images/mobile.png')
+![Modo Mobile menor a 800px](assets/images/mobile.png?raw=true "Mobile")
