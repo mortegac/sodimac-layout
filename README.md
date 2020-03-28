@@ -40,4 +40,4 @@ En este trabajo se solicita:
 
 .- En Mobile se debe visualizar de la siguiente forma:
 
-![Modo Mobile menor a 800px](assets/images/mobile.png?raw=true "Mobile" "350")
+![Modo Mobile menor a 800px](assets/images/mobile.png?raw=true "Mobile")
